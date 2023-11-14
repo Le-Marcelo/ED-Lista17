@@ -1,6 +1,6 @@
 package view;
 
-import model.ArvoreInt;
+import arvoreInt.ArvoreInt;
 
 public class Principal {
 

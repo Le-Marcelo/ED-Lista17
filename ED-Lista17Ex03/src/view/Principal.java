@@ -1,6 +1,6 @@
 package view;
 
-import model.ArvoreChar;
+import arvoreChar.ArvoreChar;
 
 public class Principal {
 
